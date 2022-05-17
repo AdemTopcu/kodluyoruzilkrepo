@@ -30,4 +30,4 @@ istediğinizi tartışmak için bir konu açınız.
 
 ## License
 
-MIT
+[MİT] (https://choosealicense.com/licenses/mit/)
