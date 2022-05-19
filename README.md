@@ -30,4 +30,4 @@ istediğinizi tartışmak için bir konu açınız.
 
 ## License
 
-[MİT]()
+[MİT](index.html)
