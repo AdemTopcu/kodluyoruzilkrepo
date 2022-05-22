@@ -31,3 +31,4 @@ istediğinizi tartışmak için bir konu açınız.
 ## License
 
 [MİT](index.html)
+[Patika.dev internet sitesi linki](https://www.patika.dev/tr)
