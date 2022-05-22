@@ -31,6 +31,6 @@ istediğinizi tartışmak için bir konu açınız.
 
 ## License
 
-[MİT](index.html)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 [Patika.dev internet sitesi linki](https://www.patika.dev/tr)
